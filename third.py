@@ -5,4 +5,3 @@ a=1
 b=2
 c=3
 print(a or b and c)  #and的优先级比or高
-

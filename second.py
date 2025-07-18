@@ -118,7 +118,10 @@ d=(2,1,3)
 print(c==d)
 print(c is d)
 
+#无序的
 e={1,2,3}
 f={2,1,3}
 print(e==f)
 print(e is f)
+
+isinstance  #判断变量类型
