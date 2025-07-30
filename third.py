@@ -5,3 +5,9 @@ a=1
 b=2
 c=3
 print(a or b and c)  #and的优先级比or高
+mood=False
+if mood:
+    print('go to left')
+    print('back away')
+else:
+    print('go to right')
